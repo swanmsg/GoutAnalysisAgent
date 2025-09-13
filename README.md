@@ -79,8 +79,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/tmc/langchaingo
-   cd langchaingo/examples/gout-analysis-agent
+   git clone https://github.com/swanmsg/GoutAnalysisAgent
+   cd GoutAnalysisAgent
    ```
 
 2. **安装依赖**
